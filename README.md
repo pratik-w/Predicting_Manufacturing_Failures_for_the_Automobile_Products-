@@ -1,0 +1,2 @@
+# Predicting_Manufacturing_Failures_for_the_Automobile_Products-
+A large dataset of manufacturing data of various product as it moves on production lines is provided by Bosch. Predicted failures of products in batch processing using Support Vector Machine, Logistic Regression, Multi-Layer Perceptron and Random Forest algorithm in Apache Spark. Developed real time machine learning application which takes live inputs of product features and predicts failures in real time using Apache Strom
